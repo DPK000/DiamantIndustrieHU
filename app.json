@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "DiamantIndustrie",
+    "slug": "DiamantIndustrie",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/diamond-final.png",
+    "splash": {
+      "image": "./assets/splash_cmd.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#163933"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.devsdiamantindustrie.diamantindustrie",
+      "supportsTablet": true,
+      "config": {
+        "googleMaps": {
+          "ApiKey": "AIzaSyD7ShEkMdp0p2kdyE0PKxPvZVaky4794qo"
+        }
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.devsdiamantindustrie.diamantindustrie",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD7ShEkMdp0p2kdyE0PKxPvZVaky4794qo"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "Locatie": [
+
+        {
+          "Coordinates": "52.226632, 5.180905",
+          "Title": "Centraal station",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.227195, 5.176825",
+          "Title": "Marktplein",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.228599, 5.169506",
+          "Title": "Gemeentehuis",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.232658, 5.164909",
+          "Title": "Muziekcentrum",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.237214, 5.150271",
+          "Title": "Trompenberg",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.222164, 5.151416",
+          "Title": "Diamantenslijperij 'Het Huisje'",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.200529, 5.152435",
+          "Title": "Zonnestraal",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.208905, 5.178406",
+          "Title": "Diamantenslijperij 'Slijptol'",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.212886, 5.189491",
+          "Title": "Nike colloseum",
+          "Description": "Lorem Ipsum standard text"
+        },
+        {
+          "Coordinates": "52.224442, 5.181236",
+          "Title": "Schapenkamp",
+          "Description": "Lorem Ipsum standard text"
+        }
+    ]
+}
